@@ -1,4 +1,3 @@
-/* eslint-disable linebreak-style */
 export default class Goblin {
   constructor(gameElement) {
     this.cells = gameElement.querySelectorAll('.col');
