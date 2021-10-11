@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import Goblin from '../Goblin';
 
 jest.useFakeTimers();
